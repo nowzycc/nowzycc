@@ -1,8 +1,8 @@
-# GitHub Profile 模板
+# 此页面正在施工ing...
 
 ## 🌟 个人简介
 **你好！我是 Nagato Hikari**  
-[简短的一句话描述你的身份，比如：全栈开发者 | AI 爱好者 | 开源贡献者]
+在CC.IHEP.CAS读书
 
 ---
 
