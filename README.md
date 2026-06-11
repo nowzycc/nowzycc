@@ -62,6 +62,6 @@
 ---
 
 ## 📊 每周编码时间
-<!-- 需要连接 wakatime -->
-[![wakatime](https://wakatime.com/@9a8a0b4c-3522-4e6e-b7ba-e0210659e218)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
