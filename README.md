@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -71,7 +71,7 @@
 
 > 📦 11.4 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2026
+> 🏆 83 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,22 +106,24 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Bash                     3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-CMake                    3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-YAML                     2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-RPMSpec                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Markdown                 4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+YAML                     3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Bash                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+CMake                    3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+RPMSpec                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JobLens                  20 hrs 1 min        ████████████████████████░   97.04 % 
-ihep-module              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-JobLens-TAP              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+JobLens                  22 hrs 52 mins      ██████████████████████░░░   89.17 % 
+tank                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+ihep-module              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JobLens-TAP              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+inkfront-code            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-WSL                      20 hrs 37 mins      █████████████████████████   100.00 % 
+WSL                      25 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -141,6 +143,6 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 23:10:44 UTC
+ Last Updated on 12/06/2026 20:36:00 UTC
 <!--END_SECTION:waka-->
 
