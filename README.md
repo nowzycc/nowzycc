@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
 
@@ -71,7 +71,7 @@
 
 > 📦 11.4 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 102 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,23 +106,23 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Bash                     4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Markdown                 4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-JavaScript               3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-CMake                    3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+YAML                     4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Markdown                 4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Bash                     3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+CMake                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JobLens                  23 hrs 28 mins      █████████████████████░░░░   83.09 % 
-tank                     3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-ihep-module              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-inkfront-code            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JobLens                  21 hrs 14 mins      ████████████████████░░░░░   81.64 % 
+tank                     3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+ihep-module              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+inkfront-code            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-WSL                      28 hrs 14 mins      █████████████████████████   100.00 % 
+WSL                      26 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -142,6 +142,6 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2026 20:06:13 UTC
+ Last Updated on 15/06/2026 21:31:40 UTC
 <!--END_SECTION:waka-->
 
