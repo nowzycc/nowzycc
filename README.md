@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
 
@@ -71,7 +71,7 @@
 
 > 📦 11.4 kB Used in GitHub's Storage 
  > 
-> 🏆 105 Contributions in the Year 2026
+> 🏆 115 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-🌆 Daytime                132 commits         ████████░░░░░░░░░░░░░░░░░   32.27 % 
-🌃 Evening                200 commits         ████████████░░░░░░░░░░░░░   48.90 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                135 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
+🌃 Evening                210 commits         ████████████░░░░░░░░░░░░░   49.76 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Tuesday                  96 commits          ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Wednesday                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Tuesday                  96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 ```
 
 
@@ -106,33 +106,34 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-YAML                     3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Bash                     3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-CMake                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+JavaScript               3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+Markdown                 3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+YAML                     3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Bash                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+CMake                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JobLens                  17 hrs 2 mins       ████████████████████░░░░░   78.12 % 
-tank                     3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-ihep-module              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-inkfront-code            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JobLens                  12 hrs 43 mins      █████████████████░░░░░░░░   67.60 % 
+tank                     3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+ihep-module              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+joblens_web_manager      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+joblens-registry-center  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-WSL                      21 hrs 49 mins      █████████████████████████   100.00 % 
+WSL                      18 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            █████████████████░░░░░░░░   68.75 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   11 repos            ████████████████░░░░░░░░░   64.71 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -142,6 +143,6 @@ Go                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2026 21:26:08 UTC
+ Last Updated on 17/06/2026 20:36:31 UTC
 <!--END_SECTION:waka-->
 
