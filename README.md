@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
 
@@ -106,24 +106,24 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-CMake                    2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-YAML                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-JavaScript               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Bash                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Markdown                 4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.31 % 
+CMake                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+YAML                     1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Bash                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+RPMSpec                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 53 mins      █████████████████████████   99.98 % 
+Opencode Cli             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-JobLens                  9 hrs 24 mins       ██████████████████░░░░░░░   71.87 % 
-tank                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-JobLens-TAP              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-joblens_web_manager      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-joblens-registry-center  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+JobLens                  9 hrs 16 mins       █████████████████████░░░░   85.02 % 
+JobLens-TAP              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+joblens_web_manager      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+joblens-registry-center  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 💻 Operating System: 
-WSL                      13 hrs 4 mins       █████████████████████████   100.00 % 
+WSL                      10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +143,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 19/06/2026 20:14:47 UTC
+ Last Updated on 20/06/2026 20:05:02 UTC
 <!--END_SECTION:waka-->
 
