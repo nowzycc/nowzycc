@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-282%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
 
@@ -106,23 +106,22 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 4 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
-Bash                     4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-YAML                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-RPMSpec                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Bash                     4 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+Markdown                 4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+YAML                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Python                   2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+RPMSpec                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 34 mins      █████████████████████████   98.20 % 
-Opencode Cli             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+VS Code                  16 hrs 30 mins      ████████████████████████░   94.76 % 
+Opencode Cli             54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🐱‍💻 Projects: 
-JobLens                  12 hrs 18 mins      ████████████████████████░   96.07 % 
-JobLens-TAP              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-htcondor                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JobLens                  17 hrs 11 mins      █████████████████████████   98.68 % 
+htcondor                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-WSL                      12 hrs 48 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -142,6 +141,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 24/06/2026 20:18:09 UTC
+ Last Updated on 25/06/2026 20:31:18 UTC
 <!--END_SECTION:waka-->
 
