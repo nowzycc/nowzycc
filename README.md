@@ -106,24 +106,24 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-Markdown                 5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Bash                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-YAML                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-C++                      2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Python                   6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.47 % 
+Markdown                 4 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+C++                      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+YAML                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 32 mins      ████████████████████░░░░░   80.35 % 
-Opencode Cli             4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+VS Code                  15 hrs 37 mins      ███████████████████░░░░░░   77.50 % 
+Opencode Cli             4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-JobLens                  20 hrs 26 mins      ██████████████████████░░░   88.53 % 
-inkfront-code            2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-fastink-plugins-ihep     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+JobLens                  17 hrs 30 mins      ██████████████████████░░░   86.87 % 
+inkfront-code            2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+fastink-plugins-ihep     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-WSL                      23 hrs 4 mins       █████████████████████████   100.00 % 
+WSL                      20 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +143,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 20:29:22 UTC
+ Last Updated on 01/07/2026 20:23:20 UTC
 <!--END_SECTION:waka-->
 
