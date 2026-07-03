@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,24 +106,23 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
-Python                   3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-C++                      2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Vue                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Markdown                 5 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
+C++                      3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+Python                   2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Vue                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 31 mins      ██████████████████░░░░░░░   70.21 % 
-Opencode Cli             5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  11 hrs 35 mins      ████████████████░░░░░░░░░   65.24 % 
+Opencode Cli             6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.76 % 
 
 🐱‍💻 Projects: 
-JobLens                  12 hrs 37 mins      ██████████████████░░░░░░░   70.79 % 
-inkfront-code            4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-fastink-plugins-ihep     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+JobLens                  11 hrs 31 mins      ████████████████░░░░░░░░░   64.86 % 
+inkfront-code            5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
+fastink-plugins-ihep     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-WSL                      17 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +142,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2026 20:01:31 UTC
+ Last Updated on 03/07/2026 19:57:51 UTC
 <!--END_SECTION:waka-->
 
