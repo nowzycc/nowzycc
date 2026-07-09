@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,25 +106,25 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      8 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.11 % 
-Markdown                 4 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Vue                      1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-C                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+C++                      7 hrs 48 mins       ██████████████░░░░░░░░░░░   57.34 % 
+Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Python                   1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+C                        56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Vue                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 52 mins      ███████████████████░░░░░░   75.00 % 
-Opencode Cli             4 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+VS Code                  10 hrs 45 mins      ████████████████████░░░░░   79.07 % 
+Opencode Cli             2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 
 🐱‍💻 Projects: 
-JobLens                  8 hrs 50 mins       █████████████░░░░░░░░░░░░   51.45 % 
-inkfront-code            3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-xrootd                   2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-eos                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-cluster_AIO              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+JobLens                  7 hrs 50 mins       ██████████████░░░░░░░░░░░   57.61 % 
+xrootd                   2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+eos                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+inkfront-code            49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+cluster_AIO              37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-WSL                      17 hrs 10 mins      █████████████████████████   100.00 % 
+WSL                      13 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,6 +144,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:03:30 UTC
+ Last Updated on 09/07/2026 20:18:44 UTC
 <!--END_SECTION:waka-->
 
