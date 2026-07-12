@@ -106,24 +106,24 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-Markdown                 2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Other                    1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-C                        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+C++                      3 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.43 % 
+Other                    1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+Markdown                 1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Python                   1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 10 mins       ██████████████████░░░░░░░   71.76 % 
-Opencode Cli             2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+VS Code                  6 hrs 24 mins       ████████████████░░░░░░░░░   65.40 % 
+Opencode Cli             3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
 
 🐱‍💻 Projects: 
-xrootd                   4 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.68 % 
-JobLens                  3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
-eos                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-cluster_AIO              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JobLens                  4 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.37 % 
+xrootd                   4 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.10 % 
+cluster_AIO              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+eos                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-WSL                      10 hrs              █████████████████████████   100.00 % 
+WSL                      9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +143,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 19:41:50 UTC
+ Last Updated on 12/07/2026 19:38:29 UTC
 <!--END_SECTION:waka-->
 
