@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -71,7 +71,7 @@
 
 > 📦 11.5 kB Used in GitHub's Storage 
  > 
-> 🏆 259 Contributions in the Year 2026
+> 🏆 265 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,24 +106,25 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Markdown                 1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Other                    1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Python                   1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-C++                      46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Markdown                 3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Python                   2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+YAML                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Other                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+C++                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 9 mins        ███████████████░░░░░░░░░░   60.42 % 
-Opencode Cli             4 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.58 % 
+VS Code                  8 hrs 22 mins       ████████████████░░░░░░░░░   65.47 % 
+Opencode Cli             4 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.53 % 
 
 🐱‍💻 Projects: 
-JobLens                  6 hrs 23 mins       ████████████████░░░░░░░░░   62.67 % 
-xrootd                   2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-cluster_AIO              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-ihep-module              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JobLens                  8 hrs 27 mins       █████████████████░░░░░░░░   66.14 % 
+xrootd                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+spectra_frontend         1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+cluster_AIO              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+ihep-module              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 💻 Operating System: 
-WSL                      10 hrs 11 mins      █████████████████████████   100.00 % 
+WSL                      12 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +144,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2026 19:58:38 UTC
+ Last Updated on 14/07/2026 19:52:13 UTC
 <!--END_SECTION:waka-->
 
