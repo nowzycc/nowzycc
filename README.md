@@ -106,25 +106,25 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Markdown                 4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-YAML                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Vue                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Markdown                 5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Python                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Vue                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+YAML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+C++                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 31 mins      ██████████████████░░░░░░░   70.07 % 
-Opencode Cli             5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+VS Code                  15 hrs 5 mins       ██████████████████░░░░░░░   73.86 % 
+Opencode Cli             5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
 
 🐱‍💻 Projects: 
-JobLens                  8 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.97 % 
-spectra_frontend         5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
-inkfront-code            1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-fastink-code             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-fastink-plugins-ihep     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JobLens                  11 hrs 19 mins      ██████████████░░░░░░░░░░░   55.39 % 
+spectra_frontend         5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+inkfront-code            1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+fastink-code             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+fastink-plugins-ihep     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-WSL                      17 hrs 52 mins      █████████████████████████   100.00 % 
+WSL                      20 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,6 +144,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 19:41:43 UTC
+ Last Updated on 19/07/2026 19:40:58 UTC
 <!--END_SECTION:waka-->
 
