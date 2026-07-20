@@ -63,7 +63,7 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -106,25 +106,25 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Python                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-Vue                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-YAML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-C++                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Markdown                 6 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.03 % 
+C++                      4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Python                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Vue                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Other                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 5 mins       ██████████████████░░░░░░░   73.86 % 
-Opencode Cli             5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+VS Code                  14 hrs 33 mins      ██████████████████░░░░░░░   70.86 % 
+Opencode Cli             5 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
 
 🐱‍💻 Projects: 
-JobLens                  11 hrs 19 mins      ██████████████░░░░░░░░░░░   55.39 % 
-spectra_frontend         5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-inkfront-code            1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-fastink-code             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-fastink-plugins-ihep     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JobLens                  11 hrs 44 mins      ██████████████░░░░░░░░░░░   57.18 % 
+spectra_frontend         5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+inkfront-code            1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+fastink-code             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+fastink-plugins-ihep     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-WSL                      20 hrs 26 mins      █████████████████████████   100.00 % 
+WSL                      20 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,6 +144,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 19:40:58 UTC
+ Last Updated on 20/07/2026 20:07:47 UTC
 <!--END_SECTION:waka-->
 
