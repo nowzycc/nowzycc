@@ -77,52 +77,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
-🌃 Evening                210 commits         ████████████░░░░░░░░░░░░░   49.65 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Tuesday                  96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Thursday                 74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-C++                      6 hrs 58 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
-Markdown                 2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Python                   55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Text                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-TypeScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 30 mins      ██████████████████░░░░░░░   73.72 % 
-Opencode Cli             4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-
-🐱‍💻 Projects: 
-JobLens                  13 hrs 16 mins      █████████████████████░░░░   85.07 % 
-spectra_frontend         2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-fastink-plugins-ihep     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-
-💻 Operating System: 
-WSL                      15 hrs 36 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -140,6 +94,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 19:55:47 UTC
+ Last Updated on 24/07/2026 19:55:30 UTC
 <!--END_SECTION:waka-->
 
