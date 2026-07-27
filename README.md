@@ -63,9 +63,11 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2052%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -106,25 +108,50 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      7 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.24 % 
-Markdown                 3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Python                   2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Text                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Python                   6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+C++                      4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Text                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 33 mins      █████████████████░░░░░░░░   68.36 % 
-Opencode Cli             6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
+VS Code                  15 hrs              █████████████████░░░░░░░░   69.42 % 
+Opencode Cli             6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
 
 🐱‍💻 Projects: 
-JobLens                  12 hrs              ███████████████░░░░░░░░░░   60.52 % 
-joblens_front            5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-spectra_frontend         1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-fastink-plugins-ihep     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+joblens_front            9 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.25 % 
+JobLens                  8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.69 % 
+fastink-plugins-ihep     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+spectra_frontend         1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+fastink-code             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-WSL                      19 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      21 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 14 hrs 40 mins (67.85%)
+
+✍️ 40,998 lines written by AI, 164 lines written by hand (99.6% AI-written)
+
+🔤 17,416,080 Input Tokens, 1,052,528 Output Tokens
+
+💵 $86.48 Estimated AI Cost This Week
+
+🧠 211 AI Sessions, 373 AI Prompts
+
+Deepseek                 32,636 lines        ███████████████████░░░░░░   77.16 % 
+GPT                      8,234 lines         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Opus                     1,425 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.6% of written lines came from AI
+📄 Detailed Prompter — average 1,236 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -144,6 +171,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:44:09 UTC
+ Last Updated on 27/07/2026 20:04:19 UTC
 <!--END_SECTION:waka-->
 
