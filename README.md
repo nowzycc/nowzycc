@@ -63,10 +63,6 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2059%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2052%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -108,21 +104,21 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-C++                      4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Text                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Python                   6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+Markdown                 3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+C++                      2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-VS Code                  15 hrs              █████████████████░░░░░░░░   69.42 % 
-Opencode Cli             6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+VS Code                  14 hrs 21 mins      █████████████████░░░░░░░░   66.38 % 
+Opencode Cli             7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
 
 🐱‍💻 Projects: 
-joblens_front            9 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.25 % 
-JobLens                  8 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.69 % 
-fastink-plugins-ihep     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-spectra_frontend         1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+joblens_front            11 hrs 10 mins      █████████████░░░░░░░░░░░░   51.69 % 
+JobLens                  6 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
+fastink-plugins-ihep     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+spectra_frontend         1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 fastink-code             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
@@ -132,26 +128,26 @@ WSL                      21 hrs 37 mins      ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 40 mins (67.85%)
+⏱ AI Coding Time: 15 hrs 8 mins (69.97%)
 
-✍️ 40,998 lines written by AI, 164 lines written by hand (99.6% AI-written)
+✍️ 41,353 lines written by AI, 166 lines written by hand (99.6% AI-written)
 
-🔤 17,416,080 Input Tokens, 1,052,528 Output Tokens
+🔤 18,304,760 Input Tokens, 1,051,887 Output Tokens
 
-💵 $86.48 Estimated AI Cost This Week
+💵 $91.15 Estimated AI Cost This Week
 
-🧠 211 AI Sessions, 373 AI Prompts
+🧠 208 AI Sessions, 372 AI Prompts
 
-Deepseek                 32,636 lines        ███████████████████░░░░░░   77.16 % 
-GPT                      8,234 lines         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Opus                     1,425 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Deepseek                 32,595 lines        ███████████████████░░░░░░   76.39 % 
+GPT                      8,649 lines         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Opus                     1,425 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.6% of written lines came from AI
-📄 Detailed Prompter — average 1,236 characters per prompt
+📄 Detailed Prompter — average 1,245 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.97% of changed lines were hand-edited
+🚀 High AI Trust — 0.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -171,6 +167,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:04:19 UTC
+ Last Updated on 28/07/2026 20:01:39 UTC
 <!--END_SECTION:waka-->
 
