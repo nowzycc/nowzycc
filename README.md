@@ -63,9 +63,9 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -73,7 +73,7 @@
 
 > 📦 11.5 kB Used in GitHub's Storage 
  > 
-> 🏆 289 Contributions in the Year 2026
+> 🏆 290 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,79 +81,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
-🌃 Evening                210 commits         ████████████░░░░░░░░░░░░░   49.65 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Tuesday                  96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Thursday                 74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-Python                   5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Markdown                 3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-C++                      3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-JSON                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Other                    1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 40 mins      █████████████████░░░░░░░░   66.89 % 
-Opencode Cli             7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-
-🐱‍💻 Projects: 
-joblens_front            11 hrs 10 mins      █████████████░░░░░░░░░░░░   50.95 % 
-JobLens                  6 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
-fastink-plugins-ihep     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-spectra_frontend         1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-fastink-code             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-
-💻 Operating System: 
-WSL                      21 hrs 56 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 19 mins (69.84%)
-
-✍️ 41,322 lines written by AI, 172 lines written by hand (99.59% AI-written)
-
-🔤 18,921,528 Input Tokens, 1,054,350 Output Tokens
-
-💵 $93.54 Estimated AI Cost This Week
-
-🧠 215 AI Sessions, 387 AI Prompts
-
-Deepseek                 32,595 lines        ███████████████████░░░░░░   76.45 % 
-GPT                      8,718 lines         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Opus                     1,325 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📄 Detailed Prompter — average 1,215 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.05% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -171,6 +98,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:53:23 UTC
+ Last Updated on 30/07/2026 20:02:09 UTC
 <!--END_SECTION:waka-->
 
