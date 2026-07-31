@@ -63,9 +63,9 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-367%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -81,6 +81,80 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+🌆 Daytime                136 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
+🌃 Evening                210 commits         ████████████░░░░░░░░░░░░░   49.65 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Tuesday                  96 commits          ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Thursday                 74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Saturday                 60 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+Python                   6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
+Markdown                 3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+C++                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 3 mins       ████████████████░░░░░░░░░   63.96 % 
+Opencode Cli             6 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
+
+🐱‍💻 Projects: 
+joblens_front            11 hrs 50 mins      ████████████████░░░░░░░░░   62.80 % 
+JobLens                  2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+fastink-plugins-ihep     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+spectra_frontend         1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+opencode                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+
+💻 Operating System: 
+WSL                      18 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 51 mins (73.44%)
+
+✍️ 47,516 lines written by AI, 73 lines written by hand (99.85% AI-written)
+
+🔤 18,783,849 Input Tokens, 999,110 Output Tokens
+
+💵 $91.98 Estimated AI Cost This Week
+
+🧠 201 AI Sessions, 349 AI Prompts
+
+Deepseek                 41,076 lines        █████████████████████░░░░   84.23 % 
+GPT                      7,381 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Opus                     278 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+K                        33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.85% of written lines came from AI
+📄 Detailed Prompter — average 1,251 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -98,6 +172,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:02:09 UTC
+ Last Updated on 31/07/2026 20:02:14 UTC
 <!--END_SECTION:waka-->
 
