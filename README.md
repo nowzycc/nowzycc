@@ -108,51 +108,48 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
-JSON                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-C++                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Docker                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+C++                      1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.41 % 
+JSON                     35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Markdown                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+CMake                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 52 mins       ██████████████░░░░░░░░░░░   57.73 % 
-Opencode Cli             4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.27 % 
+VS Code                  1 hr 21 mins        █████████████░░░░░░░░░░░░   53.27 % 
+Opencode Cli             1 hr 11 mins        ████████████░░░░░░░░░░░░░   46.73 % 
 
 🐱‍💻 Projects: 
-joblens_front            5 hrs 40 mins       ██████████████░░░░░░░░░░░   55.76 % 
-JobLens                  2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-fastink-plugins-ihep     1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-opencode                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-fastink-code             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+JobLens                  2 hrs 25 mins       ████████████████████████░   94.92 % 
+opencode                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-WSL                      10 hrs 10 mins      █████████████████████████   100.00 % 
+WSL                      2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 50 mins (57.39%)
+⏱ AI Coding Time: 1 hr 48 mins (70.6%)
 
-✍️ 1,192 lines written by AI, 52 lines written by hand (95.82% AI-written)
+✍️ 380 lines written by AI, 8 lines written by hand (97.94% AI-written)
 
-🔤 6,817,207 Input Tokens, 147,256 Output Tokens
+🔤 1,467,832 Input Tokens, 78,943 Output Tokens
 
-💵 $33.10 Estimated AI Cost This Week
+💵 $7.06 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 133 AI Prompts
+🧠 25 AI Sessions, 49 AI Prompts
 
-GPT                      929 lines           █████████████████░░░░░░░░   69.64 % 
-Opus                     278 lines           █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Deepseek                 94 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-K                        33 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Opus                     278 lines           ███████████████░░░░░░░░░░   58.53 % 
+Deepseek                 94 lines            █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+GPT                      70 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+K                        33 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.82% of written lines came from AI
-📄 Detailed Prompter — average 952 characters per prompt
+🤖 AI-Driven — 97.94% of written lines came from AI
+📄 Detailed Prompter — average 959 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 10.27% of changed lines were hand-edited
+🚀 High AI Trust — 10.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -172,6 +169,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:43:15 UTC
+ Last Updated on 04/08/2026 20:09:53 UTC
 <!--END_SECTION:waka-->
 
