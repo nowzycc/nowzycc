@@ -63,6 +63,10 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2056%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -104,45 +108,22 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     35 mins             ██████████░░░░░░░░░░░░░░░   40.50 % 
-C++                      26 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
-Markdown                 23 mins             ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Opencode Cli             49 mins             ██████████████░░░░░░░░░░░   56.19 % 
-VS Code                  38 mins             ███████████░░░░░░░░░░░░░░   43.81 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JobLens                  1 hr 19 mins        ███████████████████████░░   91.11 % 
-opencode                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 mins (67.84%)
-
-✍️ 278 lines written by AI, 1 lines written by hand (99.64% AI-written)
-
-🔤 242,517 Input Tokens, 48,785 Output Tokens
-
-💵 $1.78 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 22 AI Prompts
-
-Opus                     278 lines           ███████████████████░░░░░░   74.73 % 
-Deepseek                 94 lines            ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📄 Detailed Prompter — average 1,402 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.71% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -162,6 +143,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:24:02 UTC
+ Last Updated on 07/08/2026 19:28:39 UTC
 <!--END_SECTION:waka-->
 
