@@ -63,10 +63,6 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2056%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -108,48 +104,45 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JSON                     35 mins             ████████░░░░░░░░░░░░░░░░░   33.53 % 
-C++                      26 mins             ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-CMake                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JSON                     35 mins             ██████████░░░░░░░░░░░░░░░   40.50 % 
+C++                      26 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Markdown                 23 mins             ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+C                        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-Opencode Cli             52 mins             █████████████░░░░░░░░░░░░   50.01 % 
-VS Code                  52 mins             ████████████░░░░░░░░░░░░░   49.99 % 
+Opencode Cli             49 mins             ██████████████░░░░░░░░░░░   56.19 % 
+VS Code                  38 mins             ███████████░░░░░░░░░░░░░░   43.81 % 
 
 🐱‍💻 Projects: 
-JobLens                  1 hr 37 mins        ███████████████████████░░   92.64 % 
-opencode                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+JobLens                  1 hr 19 mins        ███████████████████████░░   91.11 % 
+opencode                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 
 💻 Operating System: 
-WSL                      1 hr 45 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (72.67%)
+⏱ AI Coding Time: 59 mins (67.84%)
 
-✍️ 311 lines written by AI, 2 lines written by hand (99.36% AI-written)
+✍️ 278 lines written by AI, 1 lines written by hand (99.64% AI-written)
 
-🔤 742,727 Input Tokens, 54,995 Output Tokens
+🔤 242,517 Input Tokens, 48,785 Output Tokens
 
-💵 $3.81 Estimated AI Cost This Week
+💵 $1.78 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 26 AI Prompts
+🧠 13 AI Sessions, 22 AI Prompts
 
-Opus                     278 lines           █████████████████░░░░░░░░   68.47 % 
-Deepseek                 94 lines            ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-K                        33 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Opus                     278 lines           ███████████████████░░░░░░   74.73 % 
+Deepseek                 94 lines            ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📄 Detailed Prompter — average 1,335 characters per prompt
+🤖 AI-Driven — 99.64% of written lines came from AI
+📄 Detailed Prompter — average 1,402 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🚀 High AI Trust — 0.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -169,6 +162,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:07:56 UTC
+ Last Updated on 07/08/2026 00:24:02 UTC
 <!--END_SECTION:waka-->
 
