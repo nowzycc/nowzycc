@@ -63,9 +63,9 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -73,7 +73,7 @@
 
 > 📦 11.5 kB Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2026
+> 🏆 307 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,21 +84,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌆 Daytime                140 commits         ████████░░░░░░░░░░░░░░░░░   31.89 % 
-🌃 Evening                222 commits         █████████████░░░░░░░░░░░░   50.57 % 
-🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+🌆 Daytime                141 commits         ████████░░░░░░░░░░░░░░░░░   32.05 % 
+🌃 Evening                222 commits         █████████████░░░░░░░░░░░░   50.45 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   86 commits          █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Tuesday                  98 commits          ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Wednesday                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Thursday                 74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Monday                   87 commits          █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Tuesday                  98 commits          ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Wednesday                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Thursday                 74 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -108,51 +108,51 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-YAML                     5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-Markdown                 3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Bash                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Other                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+YAML                     5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Markdown                 4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Bash                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Other                    1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 10 mins      ██████████████░░░░░░░░░░░   56.84 % 
-Opencode Cli             9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.16 % 
+VS Code                  12 hrs 51 mins      ██████████████░░░░░░░░░░░   56.66 % 
+Opencode Cli             9 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
 
 🐱‍💻 Projects: 
-joblens_ihep_deploy      5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-JobLens                  3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-joblens_web_manager      3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-htcondor-restd           3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-joblens_front            1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+joblens_ihep_deploy      5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+JobLens                  5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+joblens_web_manager      3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+htcondor-restd           3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+joblens_front            1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 💻 Operating System: 
-WSL                      21 hrs 24 mins      █████████████████████████   100.00 % 
+WSL                      22 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 45 mins (78.27%)
+⏱ AI Coding Time: 17 hrs 43 mins (78.04%)
 
-✍️ 10,472 lines written by AI, 255 lines written by hand (97.62% AI-written)
+✍️ 10,901 lines written by AI, 258 lines written by hand (97.69% AI-written)
 
-🔤 62,087,942 Input Tokens, 1,326,938 Output Tokens
+🔤 69,087,664 Input Tokens, 1,672,001 Output Tokens
 
-💵 $527.39 Estimated AI Cost This Week
+💵 $590.59 Estimated AI Cost This Week
 
-🧠 128 AI Sessions, 251 AI Prompts
+🧠 151 AI Sessions, 288 AI Prompts
 
-K                        4,008 lines         █████████░░░░░░░░░░░░░░░░   35.70 % 
-Opus                     3,116 lines         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-GPT                      1,847 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Glm                      1,280 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Deepseek                 789 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+K                        4,008 lines         █████████░░░░░░░░░░░░░░░░   34.38 % 
+Opus                     3,547 lines         ████████░░░░░░░░░░░░░░░░░   30.43 % 
+GPT                      1,847 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Glm                      1,280 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Deepseek                 789 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.62% of written lines came from AI
-📄 Detailed Prompter — average 1,370 characters per prompt
+🤖 AI-Driven — 97.69% of written lines came from AI
+📄 Detailed Prompter — average 1,410 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.04% of changed lines were hand-edited
+🚀 High AI Trust — 2.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -172,6 +172,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:55:38 UTC
+ Last Updated on 17/08/2026 19:07:58 UTC
 <!--END_SECTION:waka-->
 
