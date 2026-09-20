@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-311%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -108,50 +108,50 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 10 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Python                   9 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Go                       6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-TypeScript               2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Vue                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Markdown                 14 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Go                       10 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+Python                   9 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+TypeScript               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Vue                      3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 9 mins       █████████████████████░░░░   85.58 % 
-Opencode Cli             5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+VS Code                  36 hrs 35 mins      ██████████████████░░░░░░░   71.04 % 
+Opencode Cli             14 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.96 % 
 
 🐱‍💻 Projects: 
-joblens_front            20 hrs 26 mins      ██████████████░░░░░░░░░░░   56.15 % 
-JobLensSpectra           7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-JobLens-TAP              4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-JobLens                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-session-92be16af-a01b-41455 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JobLensSpectra           21 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.88 % 
+joblens_front            19 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   38.15 % 
+JobLens-TAP              3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+JobLens                  3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+joblens_ihep_deploy      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-WSL                      36 hrs 23 mins      █████████████████████████   100.00 % 
+WSL                      51 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 46 mins (98.29%)
+⏱ AI Coding Time: 50 hrs 34 mins (98.17%)
 
-✍️ 77,712 lines written by AI, 63 lines written by hand (99.92% AI-written)
+✍️ 82,826 lines written by AI, 164 lines written by hand (99.8% AI-written)
 
-🔤 32,041,337 Input Tokens, 8,754,110 Output Tokens
+🔤 41,801,661 Input Tokens, 10,403,747 Output Tokens
 
-💵 $5650.41 Estimated AI Cost This Week
+💵 $6363.45 Estimated AI Cost This Week
 
-🧠 245 AI Sessions, 504 AI Prompts
+🧠 355 AI Sessions, 730 AI Prompts
 
-Opencode-Cli             53,887 lines        █████████████████░░░░░░░░   68.56 % 
-Glm                      18,853 lines        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-GPT                      5,855 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Opencode-Cli             55,432 lines        ████████████████░░░░░░░░░   65.63 % 
+Glm                      19,376 lines        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+GPT                      9,659 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.92% of written lines came from AI
-📚 Verbose Prompter — average 1,816 characters per prompt
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 1,779 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.12% of changed lines were hand-edited
+🚀 High AI Trust — 0.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -171,6 +171,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:55:23 UTC
+ Last Updated on 20/09/2026 20:59:41 UTC
 <!--END_SECTION:waka-->
 
