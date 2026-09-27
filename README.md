@@ -108,51 +108,50 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Go                       5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-C++                      3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Other                    2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Python                   1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+C++                      3 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+Markdown                 2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Go                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      ████████████░░░░░░░░░░░░░   46.70 % 
-Opencode Cli             8 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   34.29 % 
-Codex Vscode             4 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+VS Code                  6 hrs 24 mins       ██████████████░░░░░░░░░░░   55.10 % 
+Codex Vscode             4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.79 % 
+Opencode Cli             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🐱‍💻 Projects: 
-JobLensSpectra           14 hrs 45 mins      ███████████████░░░░░░░░░░   61.04 % 
-JobLens                  5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-joblens_ihep_deploy      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-CondorSim                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-joblens_web_manager      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JobLens                  6 hrs 37 mins       ██████████████░░░░░░░░░░░   56.88 % 
+JobLensSpectra           3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+CondorSim                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+joblens_ihep_deploy      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+fastink-plugins-ihep     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 💻 Operating System: 
-WSL                      24 hrs 10 mins      █████████████████████████   100.00 % 
+WSL                      11 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 3 mins (91.26%)
+⏱ AI Coding Time: 10 hrs 2 mins (86.35%)
 
-✍️ 16,823 lines written by AI, 129 lines written by hand (99.24% AI-written)
+✍️ 10,239 lines written by AI, 5 lines written by hand (99.95% AI-written)
 
-🔤 23,609,116 Input Tokens, 3,027,289 Output Tokens
+🔤 12,419,399 Input Tokens, 1,299,376 Output Tokens
 
-💵 $1213.95 Estimated AI Cost This Week
+💵 $427.37 Estimated AI Cost This Week
 
-🧠 133 AI Sessions, 390 AI Prompts
+🧠 49 AI Sessions, 231 AI Prompts
 
-GPT                      13,789 lines        ████████████████████░░░░░   80.19 % 
-Opencode-Cli             2,837 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Glm                      524 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Codex-Vscode             45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GPT                      9,498 lines         ███████████████████████░░   92.00 % 
+Opencode-Cli             781 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Codex-Vscode             45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📚 Verbose Prompter — average 13,077 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 20,921 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -172,6 +171,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:24:01 UTC
+ Last Updated on 27/09/2026 21:32:10 UTC
 <!--END_SECTION:waka-->
 
