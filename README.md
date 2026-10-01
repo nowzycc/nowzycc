@@ -73,7 +73,7 @@
 
 > 📦 11.6 kB Used in GitHub's Storage 
  > 
-> 🏆 440 Contributions in the Year 2026
+> 🏆 441 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,56 +108,53 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 6 mins        █████████████████████░░░░   84.82 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-C++                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript               13 mins             ████████████████░░░░░░░░░   63.33 % 
+Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        ███████████████░░░░░░░░░░   61.56 % 
-Codex Vscode             35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Opencode Cli             21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-JobLens                  1 hr 34 mins        ████████████████░░░░░░░░░   63.08 % 
-JobLensSpectra           55 mins             █████████░░░░░░░░░░░░░░░░   36.92 % 
+JobLensSpectra           15 mins             ███████████████████░░░░░░   74.32 % 
+JobLens                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 
 💻 Operating System: 
-WSL                      2 hrs 29 mins       █████████████████████████   100.00 % 
+WSL                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (98.65%)
+⏱ AI Coding Time: 21 mins (100.0%)
 
-✍️ 377 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 311 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,490,418 Input Tokens, 297,007 Output Tokens
+🔤 472,509 Input Tokens, 98,302 Output Tokens
 
-💵 $137.83 Estimated AI Cost This Week
+💵 $113.78 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 64 AI Prompts
+🧠 4 AI Sessions, 7 AI Prompts
 
-Opencode-Cli             409 lines           █████████████████████████   100.00 % 
+Opencode-Cli             343 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,704 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 385 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            █████████████░░░░░░░░░░░░   52.63 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   10 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
@@ -167,6 +164,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:29:53 UTC
+ Last Updated on 01/10/2026 23:17:50 UTC
 <!--END_SECTION:waka-->
 
