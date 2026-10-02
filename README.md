@@ -73,7 +73,7 @@
 
 > 📦 11.6 kB Used in GitHub's Storage 
  > 
-> 🏆 441 Contributions in the Year 2026
+> 🏆 443 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,53 +108,32 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               13 mins             ████████████████░░░░░░░░░   63.33 % 
-Other                    5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-JobLensSpectra           15 mins             ███████████████████░░░░░░   74.32 % 
-JobLens                  5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (100.0%)
-
-✍️ 311 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 472,509 Input Tokens, 98,302 Output Tokens
-
-💵 $113.78 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 7 AI Prompts
-
-Opencode-Cli             343 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 385 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -164,6 +143,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 23:17:50 UTC
+ Last Updated on 02/10/2026 22:55:43 UTC
 <!--END_SECTION:waka-->
 
