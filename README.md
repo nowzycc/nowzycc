@@ -108,22 +108,41 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    36 mins             ██████████████████████░░░   88.15 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             40 mins             █████████████████████████   99.50 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+JobLens                  36 mins             ██████████████████████░░░   88.15 % 
+CondorSim                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 40 mins (100.0%)
+
+✍️ 194 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 957,094 Input Tokens, 62,414 Output Tokens
+
+💵 $76.88 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 5 AI Prompts
+
+GPT                      194 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,720 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -143,6 +162,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 23:18:16 UTC
+ Last Updated on 10/10/2026 22:25:46 UTC
 <!--END_SECTION:waka-->
 
