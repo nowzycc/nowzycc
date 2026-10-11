@@ -63,9 +63,9 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -108,40 +108,45 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    36 mins             ██████████████████████░░░   88.15 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Markdown                 4 hrs 47 mins       ███████████████████░░░░░░   75.28 % 
+Python                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🔥 Editors: 
-Codex Vscode             40 mins             █████████████████████████   99.50 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Codex Vscode             5 hrs 46 mins       ███████████████████████░░   90.68 % 
+VS Code                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🐱‍💻 Projects: 
-JobLens                  36 mins             ██████████████████████░░░   88.15 % 
-CondorSim                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JobLens                  3 hrs 20 mins       █████████████░░░░░░░░░░░░   52.62 % 
+CondorSim                2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.71 % 
+radical.synapse          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+session-22e423c5-b2a3-4744 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-WSL                      40 mins             █████████████████████████   100.00 % 
+WSL                      6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 8 mins (96.55%)
 
-✍️ 194 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,286 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 957,094 Input Tokens, 62,414 Output Tokens
+🔤 4,902,289 Input Tokens, 461,212 Output Tokens
 
-💵 $76.88 Estimated AI Cost This Week
+💵 $95.29 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 24 AI Sessions, 28 AI Prompts
 
-GPT                      194 lines           █████████████████████████   100.00 % 
+GPT                      2,126 lines         ███████████████████████░░   93.00 % 
+Opencode-Cli             160 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,720 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 1,251 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -162,6 +167,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 22:25:46 UTC
+ Last Updated on 11/10/2026 22:43:45 UTC
 <!--END_SECTION:waka-->
 
