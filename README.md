@@ -63,9 +63,9 @@
 
 ## 📊 每周编码时间
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -108,45 +108,45 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 5 hrs 21 mins       ███████████████████░░░░░░   77.33 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Markdown                 4 hrs 13 mins       ████████████████████░░░░░   81.58 % 
+Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 8 mins        ██████████████████████░░░   88.57 % 
-VS Code                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Codex Vscode             4 hrs 23 mins       █████████████████████░░░░   84.69 % 
+VS Code                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 
 🐱‍💻 Projects: 
-JobLens                  3 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.42 % 
-CondorSim                3 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
-JobLensSpectra           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-radical.synapse          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-session-22e423c5-b2a3-4744 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+JobLens                  3 hrs 21 mins       ████████████████░░░░░░░░░   64.88 % 
+CondorSim                1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+JobLensSpectra           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+radical.synapse          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+session-22e423c5-b2a3-4744 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-WSL                      6 hrs 56 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 42 mins (96.67%)
+⏱ AI Coding Time: 4 hrs 56 mins (95.54%)
 
-✍️ 2,286 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,631 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,054,410 Input Tokens, 536,378 Output Tokens
+🔤 5,120,319 Input Tokens, 405,685 Output Tokens
 
-💵 $116.57 Estimated AI Cost This Week
+💵 $93.22 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 34 AI Prompts
+🧠 22 AI Sessions, 29 AI Prompts
 
-GPT                      2,126 lines         ███████████████████████░░   93.00 % 
-Opencode-Cli             160 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+GPT                      1,471 lines         ███████████████████████░░   90.19 % 
+Opencode-Cli             160 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,038 characters per prompt
+📄 Detailed Prompter — average 1,210 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -168,6 +168,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 22:27:17 UTC
+ Last Updated on 15/10/2026 22:09:40 UTC
 <!--END_SECTION:waka-->
 
