@@ -108,46 +108,42 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 1 hr 50 mins        ██████████████████████░░░   87.93 % 
-Python                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Markdown                 34 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 20 mins        ████████████████░░░░░░░░░   64.20 % 
-VS Code                  44 mins             █████████░░░░░░░░░░░░░░░░   35.80 % 
+Codex Vscode             22 mins             ████████████████░░░░░░░░░   65.19 % 
+VS Code                  11 mins             █████████░░░░░░░░░░░░░░░░   34.81 % 
 
 🐱‍💻 Projects: 
-JobLens                  1 hr 14 mins        ███████████████░░░░░░░░░░   59.23 % 
-CondorSim                27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-JobLensSpectra           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-radical.synapse          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-session-22e423c5-b2a3-4744 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+CondorSim                23 mins             █████████████████░░░░░░░░   69.57 % 
+JobLensSpectra           9 mins              ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+JobLens                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 💻 Operating System: 
-WSL                      2 hrs 5 mins        █████████████████████████   100.00 % 
+WSL                      34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 51 mins (88.92%)
+⏱ AI Coding Time: 33 mins (97.97%)
 
-✍️ 378 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,508,142 Input Tokens, 181,066 Output Tokens
+🔤 1,152,121 Input Tokens, 75,166 Output Tokens
 
-💵 $51.79 Estimated AI Cost This Week
+💵 $21.28 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 15 AI Prompts
+🧠 5 AI Sessions, 6 AI Prompts
 
-GPT                      218 lines           ██████████████░░░░░░░░░░░   57.67 % 
-Opencode-Cli             160 lines           ███████████░░░░░░░░░░░░░░   42.33 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 604 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 46 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -167,6 +163,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 21:21:49 UTC
+ Last Updated on 18/10/2026 21:28:50 UTC
 <!--END_SECTION:waka-->
 
