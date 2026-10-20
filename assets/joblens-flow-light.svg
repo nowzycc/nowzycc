@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="308" viewBox="0 0 900 308" role="img" aria-label="JobLens data flow">
+  <rect width="900" height="300" fill="#FFFFFF"/>
+
+  <g font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif">
+    <!-- compute nodes -->
+    <rect x="16" y="66" width="172" height="116" rx="3" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="32" y="102" font-size="14" fill="#111827">Compute nodes</text>
+    <text x="32" y="126" font-size="11" fill="#6B7280">HTCondor · Slurm</text>
+    <text x="32" y="146" font-size="11" fill="#6B7280">cgroup · PID → Job</text>
+
+    <!-- agent -->
+    <rect x="246" y="44" width="204" height="160" rx="3" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="262" y="80" font-size="14" fill="#111827">JobLens Agent</text>
+    <text x="262" y="104" font-size="11" fill="#6B7280">eBPF collectors</text>
+    <text x="262" y="124" font-size="11" fill="#6B7280">CPU · I/O · metadata</text>
+    <text x="262" y="144" font-size="11" fill="#6B7280">network · power · GPU</text>
+
+    <!-- writers -->
+    <rect x="508" y="44" width="204" height="160" rx="3" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="524" y="80" font-size="14" fill="#111827">Writers</text>
+    <text x="524" y="104" font-size="11" fill="#6B7280">File · Elasticsearch</text>
+    <text x="524" y="124" font-size="11" fill="#6B7280">Kafka · Prometheus</text>
+    <text x="524" y="144" font-size="11" fill="#6B7280">routed per collector</text>
+
+    <!-- tap -->
+    <rect x="770" y="66" width="114" height="116" rx="3" fill="none" stroke="#111827" stroke-width="1"/>
+    <text x="786" y="102" font-size="14" fill="#111827">TAP</text>
+    <text x="786" y="126" font-size="11" fill="#6B7280">query</text>
+    <text x="786" y="146" font-size="11" fill="#6B7280">visualize</text>
+
+    <!-- trigger -->
+    <rect x="246" y="236" width="204" height="44" rx="3" fill="none" stroke="#6B7280" stroke-width="1" stroke-dasharray="3 4"/>
+    <text x="262" y="263" font-size="11" fill="#6B7280">Trigger · REST + Lua rules</text>
+
+    <!-- arrows -->
+    <g fill="none" stroke="#6B7280" stroke-width="1">
+      <line x1="188" y1="124" x2="236" y2="124"/>
+      <path d="M230 120 L236 124 L230 128" fill="#6B7280" stroke="none"/>
+      <line x1="450" y1="124" x2="498" y2="124"/>
+      <path d="M492 120 L498 124 L492 128" fill="#6B7280" stroke="none"/>
+      <line x1="712" y1="124" x2="760" y2="124"/>
+      <path d="M754 120 L760 124 L754 128" fill="#6B7280" stroke="none"/>
+      <line x1="348" y1="236" x2="348" y2="216"/>
+      <path d="M344 222 L348 216 L352 222" fill="#6B7280" stroke="none"/>
+    </g>
+
+    <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="9.5" fill="#6B7280" text-anchor="middle">
+      <text x="212" y="114">per-job</text>
+      <text x="474" y="114">write</text>
+      <text x="736" y="114">query</text>
+      <text x="348" y="290">admission + collector selection</text>
+    </g>
+  </g>
+</svg>

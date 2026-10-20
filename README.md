@@ -1,30 +1,15 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/hero.svg" alt="Nagato Hikari — Job-native observability for HTC/HPC" width="100%">
-</div>
-
 <p align="center">
-  <a href="https://github.com/joblens-org/JobLens">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=820&height=48&lines=Job-native+observability+for+HTC%2FHPC;Building+JobLens+with+eBPF+and+C%2B%2B;Profiling+batch+workloads+by+work+progress;PhD+%40+CC.IHEP.CAS" alt="typing">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/hero-dark.svg">
+    <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/hero-light.svg" alt="Nagato Hikari — job-native observability for HTC/HPC" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <a href="https://github.com/joblens-org/JobLens/releases"><img src="https://img.shields.io/github/v/release/joblens-org/JobLens?style=for-the-badge&label=JobLens&labelColor=0B1020&color=22D3EE&logo=github&logoColor=white" alt="JobLens release"></a>
-  <a href="https://github.com/joblens-org/JobLens"><img src="https://img.shields.io/github/stars/joblens-org/JobLens?style=for-the-badge&label=stars&labelColor=0B1020&color=A78BFA&logo=github&logoColor=white" alt="JobLens stars"></a>
-  <img src="https://img.shields.io/badge/license-Apache--2.0-F472B6?style=for-the-badge&labelColor=0B1020" alt="license">
-</p>
+## About
 
----
+I work on job-level observability and performance analysis for HTC/HPC clusters. The goal is to move monitoring from the node down to the job: making each job's resource use, I/O behavior and work progress measurable, comparable and reusable.
 
-## ⚡ 关于我
-
-> **把监控粒度从节点下沉到作业。**
-> 让每个作业的资源使用、I/O 行为与工作进度都可测量、可比较、可复用。
-
-- 🔬 中国科学院高能物理研究所计算中心（CC.IHEP.CAS）· 博士研究
-- 🛰️ 主线：**JobLens** —— 面向 HTC/HPC 的 Job-Native 可观测性 Agent
-- 🧪 在研：工作进度条件化的批作业性能画像，以及真实画像驱动的 what-if 仿真
-- 📍 北京 · 从自动化跨到计算机，懂一点电子与控制
+PhD researcher at the Computing Center, Institute of High Energy Physics, Chinese Academy of Sciences (CC.IHEP.CAS), Beijing.
 
 ```console
 $ joblens --whoami
@@ -34,105 +19,82 @@ stack     eBPF / C++ / HTCondor / Elasticsearch
 status    building job-grained event collection
 ```
 
----
+## Work
 
-## 🛰️ 主线工作 · JobLens
+### JobLens
 
-[JobLens](https://github.com/joblens-org/JobLens) 是一套面向 HTC/HPC 集群的作业级可观测性系统：在计算节点用 eBPF 采集，把资源指标精确归因到具体作业，再通过统一控制面按需采集与查询。
+[JobLens](https://github.com/joblens-org/JobLens) is a job-native observability system for HTC/HPC clusters. Agents on compute nodes collect with eBPF and attribute resource data to individual jobs; a unified control plane handles on-demand collection and query.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/joblens-arch.png" alt="JobLens architecture" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/joblens-flow-dark.svg">
+    <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/joblens-flow-light.svg" alt="JobLens data flow: compute nodes to agent, writers, TAP" width="100%">
+  </picture>
 </p>
 
-| 维度 | 内容 |
+| Area | Detail |
 |:---|:---|
-| **采集** | eBPF / 内核事件为主：CPU、内存、syscall I/O、文件元数据、网络；功耗（RAPL/IPMI）、GPU（NVML） |
-| **归因** | HTCondor / Slurm / cgroup；PID → Job 映射与作业生命周期事件 |
-| **写出** | File / Elasticsearch / Kafka / Prometheus，按采集器路由 |
-| **控制面** | Trigger（Flask）提供 REST API 与 Lua 规则引擎，按作业特征动态选择采集器 |
-| **工程** | C++ / CMake / systemd / 统一 RPM，AlmaLinux 9，Apache-2.0 |
-| **验证** | IHEP 生产节点实测；256 核、251 个 HTCondor 作业时 CPU < 0.15%、RSS ~145 MB |
+| **Scope** | CPU, memory, syscall I/O, file metadata, network; power (RAPL/IPMI), GPU (NVML) |
+| **Attribution** | HTCondor, Slurm, cgroup; PID → job mapping and lifecycle events |
+| **Output** | File, Elasticsearch, Kafka, Prometheus; routed per collector |
+| **Control plane** | Trigger (Flask): REST API and Lua rule engine for admission and collector selection |
+| **Delivery** | C++ / CMake / systemd / unified RPM; AlmaLinux 9; Apache-2.0 |
+| **Production** | Validated at IHEP: 256 cores, 251 HTCondor jobs, CPU < 0.15%, RSS ~145 MB |
 
-<p align="center">
-  <a href="https://github.com/joblens-org/JobLens"><img src="https://img.shields.io/badge/源码-181717?style=flat-square&logo=github&logoColor=white" alt="source"></a>
-  <a href="https://github.com/joblens-org/JobLens/blob/main/doc/api_documentation.md"><img src="https://img.shields.io/badge/API_文档-0EA5E9?style=flat-square" alt="api docs"></a>
-  <a href="https://github.com/joblens-org/JobLens/blob/main/doc/joblens_simplest_deployable_suite.md"><img src="https://img.shields.io/badge/部署套件-22C55E?style=flat-square" alt="deployment"></a>
-  <a href="https://github.com/joblens-org/JobLens/releases"><img src="https://img.shields.io/badge/Releases-A78BFA?style=flat-square" alt="releases"></a>
-</p>
+[Source](https://github.com/joblens-org/JobLens) · [API](https://github.com/joblens-org/JobLens/blob/main/doc/api_documentation.md) · [Deployment](https://github.com/joblens-org/JobLens/blob/main/doc/joblens_simplest_deployable_suite.md) · [Releases](https://github.com/joblens-org/JobLens/releases)
 
----
+## Research
 
-## 🧪 在研究
+Two threads, both in progress. No experimental results yet.
 
-> 当前处于方法梳理、测量契约与文献基线阶段，尚无实验结论。
+### Work-progress-conditioned profiling
 
-| 🧠 工作进度条件化的批作业性能画像 | 🧬 真实画像驱动的 what-if 仿真 |
+For recurring HTC workloads, I study how "how much work has been completed" can enter a job profile, and whether it improves remaining-time prediction and start-time staggering under the same delay budget. The work separates demand, environment and response, and respects what information is available at each point in time.
+
+### Profile-driven what-if simulation
+
+Using collected profiles to drive SimGrid / WRENCH-style simulation, so that profiles become calibrated simulation inputs rather than a separate, measurement-free model.
+
+## Stack
+
+| Area | Detail |
 |:---|:---|
-| 面向反复运行的 HTC 作业，研究「已完成多少工作」如何进入作业画像，以及它能否在同等启动延迟预算下改善剩余时长预测与错峰决策。关注工作、环境与响应的分离，以及信息可得时刻对预测的约束。 | 用采集到的作业画像驱动 SimGrid / WRENCH 一类的仿真，评估调度与资源配置策略，让画像成为可校准的仿真输入，而不是另建一套脱离测量的模型。 |
-| `status: in progress` · `reading: 121 PDFs / 29 papers` | `status: in progress` · `prototype: symbiotic PoC` |
+| **Languages** | C++ · Python · Bash |
+| **Systems** | eBPF · Linux · CMake · systemd |
+| **Scheduling** | HTCondor · Slurm · cgroup |
+| **Data** | Elasticsearch · Kafka · Prometheus |
+| **Services** | FastAPI · Vue · Docker · Kubernetes |
 
----
-
-## 🧰 技术栈
+## GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,cmake,elasticsearch,kafka,prometheus,docker,kubernetes,fastapi,vue&theme=dark&perline=12" alt="tech stack">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nowzycc&show_icons=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&icon_color=8B949E&text_color=8B949E&cache_seconds=86400">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=nowzycc&show_icons=true&hide_rank=true&hide_border=true&bg_color=FFFFFF&title_color=111827&icon_color=6B7280&text_color=6B7280&cache_seconds=86400" alt="GitHub stats">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/eBPF-1F425F?style=flat-square" alt="eBPF">
-  <img src="https://img.shields.io/badge/HTCondor-7D3C98?style=flat-square" alt="HTCondor">
-  <img src="https://img.shields.io/badge/Slurm-2E86C1?style=flat-square" alt="Slurm">
-  <img src="https://img.shields.io/badge/cgroup-4A4A4A?style=flat-square" alt="cgroup">
-  <img src="https://img.shields.io/badge/RPM-F43F5E?style=flat-square&logo=redhat&logoColor=white" alt="RPM">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
-</p>
-
----
-
-## 📈 GitHub 数据
-
-<p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=nowzycc&show_icons=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=C7D2FE&border_color=1F2A44&cache_seconds=86400" alt="GitHub stats">
-</p>
-
-<p align="center">
-  <img height="190" src="https://streak-stats.demolab.com?user=nowzycc&theme=dark&background=0B1020&border=1F2A44&stroke=22D3EE&ring=A78BFA&fire=F472B6&dates=8B95B5" alt="GitHub streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nowzycc&theme=dark&background=0D1117&border=0D1117&stroke=21262D&ring=F0F6FC&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E">
+    <img height="170" src="https://streak-stats.demolab.com?user=nowzycc&theme=default&background=FFFFFF&border=FFFFFF&stroke=E5E7EB&ring=111827&fire=111827&currStreakNum=111827&sideNums=111827&currStreakLabel=6B7280&sideLabels=6B7280&dates=6B7280" alt="GitHub streak">
+  </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nowzycc/nowzycc/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nowzycc/nowzycc/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/output/github-snake.svg" alt="contribution snake" width="100%">
+    <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/output/github-snake.svg" alt="Contribution graph" width="100%">
   </picture>
 </p>
 
----
+## Contact
 
-## 🌱 最近动态
-
-| 时间 | 进展 |
-|:---|:---|
-| `2026-10` | 梳理 JobLens 事件信号路径，规划作业粒度的事件采集与写出链路 |
-| `2026-10` | 完成工作进度条件化画像的文献基线与学习综述（121 篇 PDF，29 篇精读） |
-| `2026-09` | JobLens v0.3.6 发布：拆分采集器调度、统一 RPM 打包、完善 Trigger 生命周期 |
-| `2026-08` | JobLens 完成 IHEP 生产节点部署与资源开销验证 |
-
----
-
-## 🤝 联系我
-
-<p align="center">
-  <a href="mailto:wangzhenyuan@ihep.ac.cn"><img src="https://img.shields.io/badge/Email-wangzhenyuan%40ihep.ac.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://github.com/nowzycc"><img src="https://img.shields.io/badge/GitHub-nowzycc-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"></a>
-  <a href="https://github.com/joblens-org/JobLens"><img src="https://img.shields.io/badge/Project-JobLens-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="JobLens"></a>
-</p>
+[Email](mailto:wangzhenyuan@ihep.ac.cn) · [GitHub](https://github.com/nowzycc) · [JobLens](https://github.com/joblens-org/JobLens)
 
 <details>
-<summary><b>📊 编码时间 · WakaTime（每日自动更新）</b></summary>
+<summary>WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2037%20mins-blue?style=flat)
@@ -214,6 +176,9 @@ C++                      1 repo              █░░░░░░░░░░�
 
 </details>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/footer.svg" alt="Measure · Profile · Simulate" width="100%">
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/footer-dark.svg">
+    <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/footer-light.svg" alt="Measure, profile, simulate" width="100%">
+  </picture>
+</p>

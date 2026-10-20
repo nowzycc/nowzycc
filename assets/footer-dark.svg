@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="96" viewBox="0 0 1280 96" role="img" aria-label="Measure, profile, simulate">
+  <rect width="1280" height="96" fill="#0D1117"/>
+  <path d="M0 62 C 160 44, 320 78, 480 60 S 800 40, 960 58 S 1180 76, 1280 56" fill="none" stroke="#21262D" stroke-width="1"/>
+  <line x1="64" y1="20" x2="1216" y2="20" stroke="#21262D" stroke-width="1"/>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" text-anchor="middle">
+    <text x="640" y="40" font-size="9.5" letter-spacing="4" fill="#8B949E">MEASURE · PROFILE · SIMULATE</text>
+  </g>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" text-anchor="middle">
+    <text x="640" y="86" font-size="9" letter-spacing="2.6" fill="#8B949E" opacity="0.7">NAGATO HIKARI / CC.IHEP.CAS</text>
+  </g>
+</svg>
