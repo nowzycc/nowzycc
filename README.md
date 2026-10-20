@@ -12,7 +12,6 @@
   <a href="https://github.com/joblens-org/JobLens/releases"><img src="https://img.shields.io/github/v/release/joblens-org/JobLens?style=for-the-badge&label=JobLens&labelColor=0B1020&color=22D3EE&logo=github&logoColor=white" alt="JobLens release"></a>
   <a href="https://github.com/joblens-org/JobLens"><img src="https://img.shields.io/github/stars/joblens-org/JobLens?style=for-the-badge&label=stars&labelColor=0B1020&color=A78BFA&logo=github&logoColor=white" alt="JobLens stars"></a>
   <img src="https://img.shields.io/badge/license-Apache--2.0-F472B6?style=for-the-badge&labelColor=0B1020" alt="license">
-  <img src="https://komarev.com/ghpvc/?username=nowzycc&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="profile views">
 </p>
 
 ---
@@ -26,6 +25,14 @@
 - 🛰️ 主线：**JobLens** —— 面向 HTC/HPC 的 Job-Native 可观测性 Agent
 - 🧪 在研：工作进度条件化的批作业性能画像，以及真实画像驱动的 what-if 仿真
 - 📍 北京 · 从自动化跨到计算机，懂一点电子与控制
+
+```console
+$ joblens --whoami
+role      PhD researcher @ CC.IHEP.CAS
+focus     job-level observability · workload profiling · what-if simulation
+stack     eBPF / C++ / HTCondor / Elasticsearch
+status    building job-grained event collection
+```
 
 ---
 
@@ -96,12 +103,11 @@
 ## 📈 GitHub 数据
 
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=nowzycc&show_icons=true&include_all_commits=true&count_private=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=C7D2FE&border_color=1F2A44" alt="GitHub stats">
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowzycc&layout=compact&langs_count=8&bg_color=0B1020&title_color=22D3EE&text_color=C7D2FE&border_color=1F2A44" alt="top languages">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=nowzycc&show_icons=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=C7D2FE&border_color=1F2A44&cache_seconds=86400" alt="GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nowzycc&background=0B1020&border=1F2A44&stroke=22D3EE&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=C7D2FE&dates=8B95B5" alt="GitHub streak">
+  <img height="190" src="https://streak-stats.demolab.com?user=nowzycc&theme=dark&background=0B1020&border=1F2A44&stroke=22D3EE&ring=A78BFA&fire=F472B6&dates=8B95B5" alt="GitHub streak">
 </p>
 
 <p align="center">
