@@ -41,14 +41,6 @@ status    building job-grained event collection
 [JobLens](https://github.com/joblens-org/JobLens) 是一套面向 HTC/HPC 集群的作业级可观测性系统：在计算节点用 eBPF 采集，把资源指标精确归因到具体作业，再通过统一控制面按需采集与查询。
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CPU_OVERHEAD-%3C0.15%25-22D3EE?style=for-the-badge&labelColor=0B1020" alt="CPU overhead">
-  <img src="https://img.shields.io/badge/RSS-~145_MB-A78BFA?style=for-the-badge&labelColor=0B1020" alt="RSS">
-  <img src="https://img.shields.io/badge/JOBS_/_NODE-251-F472B6?style=for-the-badge&labelColor=0B1020" alt="jobs per node">
-  <img src="https://img.shields.io/badge/COLLECTORS-9-38BDF8?style=for-the-badge&labelColor=0B1020" alt="collectors">
-  <img src="https://img.shields.io/badge/WRITERS-4-818CF8?style=for-the-badge&labelColor=0B1020" alt="writers">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/joblens-arch.png" alt="JobLens architecture" width="100%">
 </p>
 
