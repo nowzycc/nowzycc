@@ -14,3 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN  }}
+          # Keep coding time, languages, editors and OS; hide internal details.
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
