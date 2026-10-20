@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" alt="Nagato Hikari — Job-native observability for HTC/HPC" width="100%">
+  <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/hero.svg" alt="Nagato Hikari — Job-native observability for HTC/HPC" width="100%">
 </div>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/joblens-arch.png" alt="JobLens architecture" width="100%">
+  <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/joblens-arch.png" alt="JobLens architecture" width="100%">
 </p>
 
 | 维度 | 内容 |
@@ -217,5 +217,5 @@ C++                      1 repo              █░░░░░░░░░░�
 </details>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Measure · Profile · Simulate" width="100%">
+  <img src="https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/footer.svg" alt="Measure · Profile · Simulate" width="100%">
 </div>
