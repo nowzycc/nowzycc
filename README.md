@@ -138,20 +138,20 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
-Other                    3 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.93 % 
-Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-C++                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Other                    3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+C++                      2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Go                       40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       ██████████████░░░░░░░░░░░   55.04 % 
-Opencode Cli             1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Codex Vscode             1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-OpenCode                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+VS Code                  5 hrs 23 mins       █████████████░░░░░░░░░░░░   51.83 % 
+OpenCode                 1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Opencode Cli             1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Codex Vscode             1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 
 💻 Operating System: 
-WSL                      8 hrs 10 mins       █████████████████████████   100.00 % 
+WSL                      10 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -171,7 +171,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2026 22:24:37 UTC
+ Last Updated on 21/10/2026 22:31:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
