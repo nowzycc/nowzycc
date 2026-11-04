@@ -9,7 +9,49 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 60
+    concurrency:
+      group: waka-readme
+      cancel-in-progress: false
     steps:
+      # WakaTime only accepts API keys on the plugin ingest endpoints; reading
+      # stats needs a personal OAuth token (https://wakatime.com/oauth), passed
+      # through the action's existing WAKATIME_API_KEY input.
+      # This gate also waits out HTTP 202 ("stats are being recalculated"),
+      # which the action treats as "WakaTime data unavailable" and would
+      # otherwise commit a README with the section blanked out.
+      - name: Check that WakaTime stats are readable
+        env:
+          WAKATIME_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 20); do
+            ready=1
+            for range in all_time last_7_days; do
+              code=$(curl -sS -o "/tmp/waka-${range}.json" -w '%{http_code}' --max-time 60 \
+                -G "https://wakatime.com/api/v1/users/current/stats/${range}" \
+                --data-urlencode "api_key=${WAKATIME_TOKEN}")
+              echo "${range}: HTTP ${code}"
+              case "${code}" in
+                200) ;;
+                401|403)
+                  echo "::error::WakaTime rejected the credential (HTTP ${code}): $(cat "/tmp/waka-${range}.json")"
+                  echo "::error::secrets.WAKATIME_API_KEY must be a personal OAuth token from https://wakatime.com/oauth, not an API key from https://wakatime.com/api-key."
+                  exit 1
+                  ;;
+                *) ready=0 ;;
+              esac
+            done
+            if [ "${ready}" = "1" ]; then
+              echo "WakaTime stats are available."
+              exit 0
+            fi
+            echo "Stats not ready yet (attempt ${attempt}/20), retrying in 30s..."
+            sleep 30
+          done
+          echo "::error::WakaTime stats were still not ready after 10 minutes; skipping this run so the README is left untouched."
+          exit 1
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
