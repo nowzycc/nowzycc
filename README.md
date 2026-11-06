@@ -97,7 +97,7 @@ Using collected profiles to drive SimGrid / WRENCH-style simulation, so that pro
 <summary>WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -138,20 +138,20 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      18 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Markdown                 12 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Other                    8 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Python                   4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-TypeScript               3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+C++                      16 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.77 % 
+Markdown                 11 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Other                    8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Python                   4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+TypeScript               3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 48 mins      ███████████░░░░░░░░░░░░░░   45.64 % 
-Opencode Cli             15 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-OpenCode                 12 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Codex Vscode             1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+VS Code                  23 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.64 % 
+Opencode Cli             15 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+OpenCode                 11 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Codex Vscode             1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-WSL                      54 hrs 20 mins      █████████████████████████   100.00 % 
+WSL                      51 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -171,7 +171,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2026 00:32:59 UTC
+ Last Updated on 06/11/2026 00:26:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
