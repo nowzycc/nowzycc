@@ -103,7 +103,7 @@ Using collected profiles to drive SimGrid / WRENCH-style simulation, so that pro
 
 > 📦 12.8 kB Used in GitHub's Storage 
  > 
-> 🏆 472 Contributions in the Year 2026
+> 🏆 476 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,21 +114,21 @@ Using collected profiles to drive SimGrid / WRENCH-style simulation, so that pro
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌆 Daytime                168 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                251 commits         ████████████░░░░░░░░░░░░░   49.80 % 
-🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+🌆 Daytime                172 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌃 Evening                251 commits         ████████████░░░░░░░░░░░░░   49.41 % 
+🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  111 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Thursday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Thursday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 ```
 
 
@@ -138,20 +138,20 @@ Sunday                   56 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      16 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Markdown                 11 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Other                    8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Python                   4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-TypeScript               3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+C++                      16 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
+Markdown                 9 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Other                    6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+TypeScript               3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.64 % 
-Opencode Cli             15 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-OpenCode                 11 hrs 51 mins      ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Codex Vscode             1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+VS Code                  20 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.32 % 
+Opencode Cli             12 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+OpenCode                 11 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-WSL                      51 hrs 34 mins      █████████████████████████   100.00 % 
+WSL                      44 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -171,7 +171,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2026 00:26:26 UTC
+ Last Updated on 07/11/2026 00:04:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
