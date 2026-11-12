@@ -97,13 +97,13 @@ Using collected profiles to drive SimGrid / WRENCH-style simulation, so that pro
 <summary>WakaTime stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 12.8 kB Used in GitHub's Storage 
  > 
-> 🏆 478 Contributions in the Year 2026
+> 🏆 479 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,21 +114,21 @@ Using collected profiles to drive SimGrid / WRENCH-style simulation, so that pro
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-🌆 Daytime                173 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌃 Evening                252 commits         ████████████░░░░░░░░░░░░░   49.41 % 
-🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+🌆 Daytime                173 commits         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌃 Evening                252 commits         ████████████░░░░░░░░░░░░░   49.32 % 
+🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Thursday                 87 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Thursday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 
@@ -138,21 +138,21 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      8 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Markdown                 6 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-TypeScript               5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Other                    5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Python                   2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+C++                      6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Markdown                 5 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Other                    4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Python                   3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+TypeScript               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-Opencode Cli             14 hrs 45 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
-VS Code                  13 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   39.69 % 
-OpenCode                 4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Codex Vscode             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+VS Code                  13 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.59 % 
+Opencode Cli             7 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+OpenCode                 6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Codex Vscode             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      33 hrs 6 mins       █████████████████████████   100.00 % 
+WSL                      28 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +172,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2026 00:20:57 UTC
+ Last Updated on 12/11/2026 01:35:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
