@@ -114,21 +114,21 @@ Using collected profiles to drive SimGrid / WRENCH-style simulation, so that pro
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-🌆 Daytime                173 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
-🌃 Evening                252 commits         ████████████░░░░░░░░░░░░░   46.67 % 
-🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+🌞 Morning                77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌆 Daytime                173 commits         ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌃 Evening                252 commits         ████████████░░░░░░░░░░░░░   46.75 % 
+🌙 Night                  37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Thursday                 117 commits         █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Monday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  111 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Wednesday                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 116 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Saturday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Sunday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 ```
 
 
@@ -138,20 +138,20 @@ Sunday                   57 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      13 hrs 6 mins       █████████████░░░░░░░░░░░░   52.57 % 
-Markdown                 4 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Other                    2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-Python                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+C++                      15 hrs 16 mins      ██████████████░░░░░░░░░░░   55.53 % 
+Other                    4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Markdown                 3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Bash                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Python                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 8 mins       █████████████░░░░░░░░░░░░   52.72 % 
-OpenCode                 10 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   40.32 % 
-Opencode Cli             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+VS Code                  16 hrs 18 mins      ███████████████░░░░░░░░░░   59.27 % 
+OpenCode                 8 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
+Opencode Cli             1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-WSL                      24 hrs 55 mins      █████████████████████████   100.00 % 
+WSL                      27 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -171,7 +171,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/nowzycc/nowzycc/main/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2026 01:52:07 UTC
+ Last Updated on 19/11/2026 01:21:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
